@@ -62,51 +62,39 @@
 <body>
 
   <header>
-    <h1>Akshay Kumar</h1>
-    <p>Student at XYZ College | B.Tech Computer Science</p>
+    <h1>Tanishka Choudhary</h1>
+    <p>Student at MAIT | B.Tech Computer Science</p>
   </header>
 
   <nav>
     <a href="#about">About</a>
     <a href="#hobbies">Hobbies</a>
-    <a href="#activities">Activities</a>
     <a href="#contact">Contact</a>
   </nav>
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Hello! My name is Akshay Kumar. I am currently pursuing <b>B.Tech in Computer Science</b> from <b>XYZ College</b>. I am passionate about learning new technologies and improving my skills.</p>
+    <p>Hello! My name is Tanishka Choudhary. I am currently pursuing <b>B.Tech in Computer Science</b> from <b>MAIT</b>. I am passionate about learning new technologies and improving my skills.</p>
   </section>
 
   <section id="hobbies">
     <h2>My Hobbies</h2>
     <ul>
-      <li>Playing Football</li>
+      <li>Sketching</li>
       <li>Coding and Building Projects</li>
-      <li>Reading Bhagavad Gita</li>
+      <li>Dancing</li>A
       <li>Exploring Cars & Supercars</li>
-    </ul>
-  </section>
-
-  <section id="activities">
-    <h2>Curricular & Extracurricular Activities</h2>
-    <ul>
-      <li>Participated in Inter-College Coding Hackathon</li>
-      <li>Member of Robotics Club</li>
-      <li>Won 2nd Prize in Debate Competition</li>
-      <li>Volunteered for College Fest Management</li>
     </ul>
   </section>
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <p><b>Email:</b> akshay@example.com</p>
-    <p><b>Phone:</b> +91 9876543210</p>
-    <p><b>LinkedIn:</b> <a href="#" target="_blank">linkedin.com/in/akshay</a></p>
+    <p><b>Email:</b> tanishkach2007@gmail,com</p>
+    <p><b>LinkedIn:</b> <a href="#" target="_blank">https://www.linkedin.com/in/tanishka-tanishka-choudhary-a77352380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a></p>
   </section>
 
   <footer>
-    <p>© 2025 Akshay Kumar. All Rights Reserved.</p>
+    <p>© 2025 Tanishka Choudhary. All Rights Reserved.</p>
   </footer>
 
 </body>
