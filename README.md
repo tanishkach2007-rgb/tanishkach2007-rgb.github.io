@@ -82,7 +82,7 @@
     <ul>
       <li>Sketching</li>
       <li>Coding and Building Projects</li>
-      <li>Dancing</li>A
+      <li>Dancing</li>
       <li>Exploring Cars & Supercars</li>
     </ul>
   </section>
